@@ -1,0 +1,5 @@
+Hello, and thanks for using my open source script!
+
+  Firstly, I'd like to start with telling you how to set up the database connections.
+You're going to notice a few lines at first, that start with "$link = new mysqli(" ", " ", " ", " ");" 
+This is where we will hook up our database connection. Firstly, we will put "localhost" next will be your username.
